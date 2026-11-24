@@ -139,7 +139,7 @@ The sample previews demonstrate how the same email template can display differen
 
 ## Project Files
 
-- `01-Dynamic-Email-Newsletter.html` — AMPscript personalization logic and HTML newsletter template
+- `Dynamic-Email-Newsletter.html` — Complete HTML email template with embedded AMPscript for customer personalization, dynamic article retrieval, conditional messaging, and error handling.
 
 ## Tools and Technologies
 
